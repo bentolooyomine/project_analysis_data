@@ -114,7 +114,7 @@ def create_weathersit_df(df):
 
 
 
-df = pd.read_csv("main_data.csv")
+df = pd.read_csv("https://github.com/bentolooyomine/project_analysis_data/blob/main/Dashboard/main_data.csv")
 
 df.head()
 
